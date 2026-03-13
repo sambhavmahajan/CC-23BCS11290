@@ -50,8 +50,8 @@ int main() {
 	vector<int> v = {200, 100};
 	cout<<solve(v, 150)<<'\n';
 
-	vector<int> v2 = {1,1,1,2,2,2,3,3,3,10};
-	cout<<solve2(v2)<<'\n';
+	//vector<int> v2 = {1,1,1,2,2,2,3,3,3,10};
+	//cout<<solve2(v2)<<'\n';
 	//printf("Time taken: %.2fs\n", (double)(clock() - tStart)/CLOCKS_PER_SEC);
 	return 0;
 }
